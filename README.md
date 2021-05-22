@@ -6,7 +6,7 @@
 ## Description
 It is a friend list app used to add user information. In table view, show each user's details through table view cells.
 
-## Functionalities
+## Functionalities 
 
 * MVC pattern 
 * Protocol 
