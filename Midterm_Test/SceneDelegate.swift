@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Midterm_Test
 //
-//  Created by Rania Arbash on 2020-11-06.
+//  Created by Noar Rassam on 2020-11-06.
 //  Copyright © 2020 Rania Arbash. All rights reserved.
 //
 
@@ -11,12 +11,16 @@ import UIKit
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
-
+    
+    var model = DataModelManager()
+    //var modelC = [DataModelClasses]()
 
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
-        // Use this method to optionally configure and attach the UIWindow `window` to the provided UIWindowScene `scene`.
-        // If using a storyboard, the `window` property will automatically be initialized and attached to the scene.
-        // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
+        
+        let rnc = (window?.rootViewController as! UINavigationController)
+        (rnc.viewControllers[0] as! FriendList).myModelM = model
+        //(rnc.viewControllers[0] as! FriendList).myModelC = modelC
+
         guard let _ = (scene as? UIWindowScene) else { return }
     }
 

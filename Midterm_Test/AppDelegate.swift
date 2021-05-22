@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Midterm_Test
 //
-//  Created by Rania Arbash on 2020-11-06.
+//  Created by Noar Rassam on 2020-11-06.
 //  Copyright © 2020 Rania Arbash. All rights reserved.
 //
 
@@ -10,8 +10,7 @@ import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
+    var localImagesArr = [UIImage]()
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
