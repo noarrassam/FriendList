@@ -22,26 +22,26 @@ Licensed under the [MIT License](LICENSE).
 
 ## **My Friend List**
 
-<img src="https://github.com/noarrassam/FriendList/blob/master/Images/1.png" width="500" height="1000">
+<img src="https://github.com/noarrassam/FriendList/blob/master/Images/1.png" width="500" height="700">
 
 ## **Image Picker View**
 
-<img src="https://github.com/noarrassam/FriendList/blob/master/Images/3.png" width="500" height="1000">
+<img src="https://github.com/noarrassam/FriendList/blob/master/Images/3.png" width="500" height="700">
 
 ## **Add New Friend**
 
-<img src="https://github.com/noarrassam/FriendList/blob/master/Images/4.png" width="500" height="1000">
+<img src="https://github.com/noarrassam/FriendList/blob/master/Images/4.png" width="500" height="700">
 
 
 ## **Data Added Successfully**
 
-<img src="https://github.com/noarrassam/FriendList/blob/master/Images/5.png" width="500" height="1000">
+<img src="https://github.com/noarrassam/FriendList/blob/master/Images/5.png" width="500" height="700">
 
 
 ## **My Friend List**
 
-<img src="https://github.com/noarrassam/FriendList/blob/master/Images/6.png" width="500" height="1000">
+<img src="https://github.com/noarrassam/FriendList/blob/master/Images/6.png" width="500" height="700">
 
 ## **Friend Scene**
 
-<img src="https://github.com/noarrassam/FriendList/blob/master/Images/7.png" width="500" height="1000">
+<img src="https://github.com/noarrassam/FriendList/blob/master/Images/7.png" width="500" height="700">
