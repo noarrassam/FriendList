@@ -35,6 +35,8 @@
 		210A63CC2555693900FA2F6E /* FriendAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendAdd.swift; sourceTree = "<group>"; };
 		210A63CE2555697600FA2F6E /* FriendList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendList.swift; sourceTree = "<group>"; };
 		210A63D025556BE500FA2F6E /* FriendScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendScene.swift; sourceTree = "<group>"; };
+		F80F3F422659B7DB00F6D570 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F80F3F432659B98B00F6D570 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		F86466C125563F300067A000 /* CellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -52,6 +54,8 @@
 		210A63A8255568C300FA2F6E = {
 			isa = PBXGroup;
 			children = (
+				F80F3F432659B98B00F6D570 /* LICENSE */,
+				F80F3F422659B7DB00F6D570 /* README.md */,
 				210A63B3255568C300FA2F6E /* Midterm_Test */,
 				210A63B2255568C300FA2F6E /* Products */,
 			);
