@@ -20,43 +20,28 @@ Licensed under the [MIT License](LICENSE).
 
 ## Features
 
-## **Home Screen**
+## **My Friend List**
 
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/1.png" width="500" height="1000">
+<img src="https://github.com/noarrassam/FriendList/blob/master/Images/1.png" width="500" height="1000">
 
-## **Login Screen**
+## **Image Picker View**
 
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/2.png" width="500" height="1000">
+<img src="https://github.com/noarrassam/FriendList/blob/master/Images/3.png" width="500" height="1000">
 
-## **SignUp Screen**
+## **Add New Friend**
 
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/3.png" width="500" height="1000">
-
-
-## **Terms&Conditions**
-
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/4.png" width="500" height="1000">
+<img src="https://github.com/noarrassam/FriendList/blob/master/Images/4.png" width="500" height="1000">
 
 
-## **Messages**
+## **Data Added Successfully**
 
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/5.png" width="500" height="1000">
-
-## **Message Title&Subtitle**
-
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/6.png" width="500" height="1000">
+<img src="https://github.com/noarrassam/FriendList/blob/master/Images/5.png" width="500" height="1000">
 
 
-## **Chat**
+## **My Friend List**
 
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/7.png" width="500" height="1000">
+<img src="https://github.com/noarrassam/FriendList/blob/master/Images/6.png" width="500" height="1000">
 
-## **User Info.**
+## **Friend Scene**
 
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/8.png" width="500" height="1000">
-
-## **Settings**
-
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/9.png" width="500" height="1000">
-
-
+<img src="https://github.com/noarrassam/FriendList/blob/master/Images/7.png" width="500" height="1000">
